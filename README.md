@@ -2,11 +2,10 @@
 
 
 
-You can use the [editor on GitHub](https://github.com/ingJuanPablo/ingJuanPablo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello, I am a computer and systems engineer at the Universidad del Quindío.
+I have worked on various projects such as mobile application development for Android operating system, I have also had the opportunity to be close to the development in C ++ for IoT devices such as Esp32 and Arduino, currently (2020), I am part of a research group that offers a large amount of services in the field of usability and HCI. Thanks to my time in the research group I have managed to add to my abilities a series of techniques to achieve a user interface design with a high level of usability, however my focus and interest is in the study of different algorithms and libraries in Python to offer solutions through artificial intelligence and machine learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Titulo 1
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
