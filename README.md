@@ -9,6 +9,9 @@ I have worked on various projects such as mobile application development for And
 
 These are some of the interfaces designed and developed for one of the subjects of my professional career.
 
+![alt text](https://github.com/ingJuanPablo/ingJuanPablo.github.io/blob/master/Login.png)
+
+![alt text](https://github.com/ingJuanPablo/ingJuanPablo.github.io/blob/master/Plantas.png)
 ```markdown
 Syntax highlighted code block
 
