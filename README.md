@@ -5,9 +5,9 @@
 Hello, I am a computer and systems engineer at the Universidad del Quindío.
 I have worked on various projects such as mobile application development for Android operating system, I have also had the opportunity to be close to the development in C ++ for IoT devices such as Esp32 and Arduino, currently (2020), I am part of a research group that offers a large amount of services in the field of usability and HCI. Thanks to my time in the research group I have managed to add to my abilities a series of techniques to achieve a user interface design with a high level of usability, however my focus and interest is in the study of different algorithms and libraries in Python to offer solutions through artificial intelligence and machine learning.
 
-### Titulo 1
+### Android Development Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These are some of the interfaces designed and developed for one of the subjects of my professional career.
 
 ```markdown
 Syntax highlighted code block
